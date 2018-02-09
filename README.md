@@ -1,3 +1,3 @@
 # hello-world
-Test project
-This is LaBoudeuse.
+Test project.  
+
